@@ -1,5 +1,6 @@
 # 🏦 Bank Customer Churn Analysis & Dashboard
-![Link] ( https://www.kaggle.com/datasets/sharanharsoor/bank-customers-and-their-churn-behavior)
+[Link] ( https://www.kaggle.com/datasets/sharanharsoor/bank-customers-and-their-churn-behavior)
+
 ![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white)
 ![Data](https://img.shields.io/badge/Dataset-10%2C000%20Customers-blue)
 
