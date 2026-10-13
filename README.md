@@ -66,4 +66,4 @@ Based on the data, I formed these hypotheses:
 
 **Next step:** Collect qualitative feedback (surveys, exit interviews) from German and senior customers to validate these assumptions.
 
-## 📂 Repository Structure
+
